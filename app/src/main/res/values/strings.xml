@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EmPub Lite 1</string>
+    <string name="quick">The quick brown fox...</string>
+    <string name="laughs">He who laughs last...</string>
+    <string name="b">This has <b>bold</b> in it.</string>
+    <string name="i">Whereas this has <i>italics</i>!</string>
+    <string name="report_body">
+<![CDATA[
+<html>
+<body>
+<h1>TPS Report for: {{reportDate}}</h1>
+<p>Here are the contents of the TPS report:</p><p>{{message}}</p>
+<p>If you have any questions regarding this report, please do <b>not</b> ask Mark Murphy.</p>
+</body>
+</html>
+]]>
+    </string>
+</resources>
